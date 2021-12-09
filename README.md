@@ -1,1 +1,1 @@
-Apresentação do livro The Pragmatic Programmer: From Journeyman to Master - http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X.
+ The Pragmatic Programmer: From Journeyman to Master - http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X.
